@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sorozatok", "Sorozatok\Soro
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sudoku", "Sudoku\Sudoku.csproj", "{F877F07E-4D13-4D25-9D6B-302963067393}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Godor", "Godor\Godor.csproj", "{329C6670-2915-44D8-95A3-4A4B8B2E4CD4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{F877F07E-4D13-4D25-9D6B-302963067393}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F877F07E-4D13-4D25-9D6B-302963067393}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F877F07E-4D13-4D25-9D6B-302963067393}.Release|Any CPU.Build.0 = Release|Any CPU
+		{329C6670-2915-44D8-95A3-4A4B8B2E4CD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{329C6670-2915-44D8-95A3-4A4B8B2E4CD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{329C6670-2915-44D8-95A3-4A4B8B2E4CD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{329C6670-2915-44D8-95A3-4A4B8B2E4CD4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
