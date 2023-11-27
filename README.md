@@ -6,7 +6,7 @@
 - [oktatas.hu](https://www.oktatas.hu/kozneveles/erettsegi/feladatsorok/emelt_szint_2021osz/emelt_8nap)
 - [Feladatsor](https://www.oktatas.hu/bin/content/dload/erettsegi/feladatok_2021osz_emelt/e_inf_21okt_fl.pdf#page=10)
 - [Megoldás](Sudoku/Program.cs)
-- Értékelés: **7**/10
+- Szépség: **7**/10
 
 ## Godor
 
@@ -14,7 +14,7 @@
 - [oktatas.hu](https://www.oktatas.hu/kozneveles/erettsegi/feladatsorok/emelt_szint_2021tavasz/emelt_11nap)
 - [Feladatsor](https://www.oktatas.hu/bin/content/dload/erettsegi/feladatok_2021tavasz_emelt/e_inf_21maj_fl.pdf#page=10)
 - [Megoldás](Godor/Program.cs)
-- Értékelés: **6**/10
+- Szépség: **6**/10
 
 ## Sorozatok
 
@@ -22,4 +22,4 @@
 - [oktatas.hu](https://www.oktatas.hu/kozneveles/erettsegi/feladatsorok/emelt_szint_2020osz/emelt_8nap)
 - [Feladatsor](https://www.oktatas.hu/bin/content/dload/erettsegi/feladatok_2020osz_emelt/e_inf_20okt_fl.pdf#page=10)
 - [Megoldás](Sorozatok/Program.cs)
-- Értékelés: **10**/10, C#-pal gyakorlatilag csalás
+- Szépség: **10**/10, C#-pal gyakorlatilag csalás
